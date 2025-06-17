@@ -12,7 +12,7 @@ Este repositório reúne soluções voltadas à análise de dados sobre a **expo
 - 📦 **Scraper automatizado** de dados públicos da Embrapa (Vitibrasil)
 - 🧽 **Pipeline de limpeza e padronização de nomes de países** usando fuzzy matching
 
-Acesse diretamente no Colab: [🔗 Script no Google Colab]([https://colab.research.google.com/drive/1Ud6RFogShJPEmBeGQ0tm-yJVuBJz17wv?usp=sharing](https://colab.research.google.com/drive/1PKCWksufdFb1y_1ytx8VvKY_l46kS-71?usp=sharing))
+Acesse diretamente no Colab: [🔗 <a href='https://colab.research.google.com/drive/1PKCWksufdFb1y_1ytx8VvKY_l46kS-71?usp=sharing'> Script no Google Colab</a>]
 
 ---
 
@@ -40,12 +40,7 @@ Acesse diretamente no Colab: [🔗 Script no Google Colab]([https://colab.resear
 
 ## 4. ⚙️ Como Executar
 
-### 🔎 Web Scraping
-Coleta automática dos dados de 2008 a 2023:
-
-```bash
-python scraper_exportacao.py
-```
+Baixe o arquivo e importe no google Colab, após isso é só executar todas as células e aguardar a mágica 😎
 
 Os arquivos serão salvos no diretório `data/raw`.
 
@@ -108,4 +103,4 @@ Cada dataset possui colunas padronizadas como: `País`, `Quantidade`, `Valor`, `
 
 ## 8. 📢 Créditos
 
-Este projeto foi desenvolvido como parte do Tech Challenge da FIAP, utilizando dados públicos da **Embrapa**, com inspiração em práticas reais de **Data Analytics**.
+Este projeto foi desenvolvido como parte do Tech Challenge da FIAP, utilizando dados públicos da **Embrapa** bem como de dados fornecidos pelo **GOV** e pelo **IBGE**, com inspiração em práticas reais de **Data Analytics**.
