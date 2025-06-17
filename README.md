@@ -13,7 +13,9 @@ Este repositório reúne soluções voltadas à análise de dados sobre a **expo
 - 🧽 **Pipeline de limpeza e padronização de nomes de países** usando fuzzy matching
 
 Acesse diretamente no Colab: [🔗 <a href='https://colab.research.google.com/drive/1PKCWksufdFb1y_1ytx8VvKY_l46kS-71?usp=sharing'> Script no Google Colab</a>]
-Após o scrapping também foi feito um pequeno enriquecimento utilizando de SQL para fins de adição de uma coluna com alguns outros dados como "Continente", para fim de concepção de um dashboard,
+
+Após o scrapping também foi feito um pequeno enriquecimento utilizando de SQL(foi utilizado para EDA, deixarei o script também) 
+para fins de adição de uma coluna com alguns outros dados como "Continente", para fim de concepção de um dashboard,
 como você pode ver abaixo, mostrando tendências iniciais que podem ser extraídas dos nossos dados.
 
 ![Dashboard](assets/dashboard.png)
@@ -24,6 +26,7 @@ Acesse diretamente no PowerBI: [🔗 <a href='https://app.powerbi.com/view?r=eyJ
 
 ## 2. 🛠️ Tecnologias Utilizadas
 
+- `MSSQL`
 - `Python 3.10+`
 - `pandas` – Manipulação de dados
 - `requests` – Requisições HTTP
