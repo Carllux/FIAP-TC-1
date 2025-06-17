@@ -11,6 +11,8 @@ Este projeto consiste em um web scraper desenvolvido para o Tech Challenge da FI
 
 O scraper foi construído para extrair informações essenciais de vendas, como país de destino, quantidade em litros e valor transacionado em dólares.
 
+[Caso não queira baixar, você pode conferir o script <a href='https://colab.research.google.com/drive/1Ud6RFogShJPEmBeGQ0tm-yJVuBJz17wv?usp=sharing'>aqui</a>]
+
 ---
 
 ## 2. 🛠️ Ferramentas e Tecnologias
