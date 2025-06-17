@@ -1,4 +1,4 @@
-# 🍇 Vitibrasil Analytics – Scraper e Padronização de Dados de Exportação de Vinhos
+# 🍇 Vitibrasil Analytics – Scrapper e Padronização de Dados de Exportação de Vinhos
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python">
