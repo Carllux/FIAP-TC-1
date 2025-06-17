@@ -113,3 +113,10 @@ Cada dataset possui colunas padronizadas como: `País`, `Quantidade`, `Valor`, `
 ## 8. 📢 Créditos
 
 Este projeto foi desenvolvido como parte do Tech Challenge da FIAP, utilizando dados públicos da **Embrapa** bem como de dados fornecidos pelo **GOV** e pelo **IBGE**, com inspiração em práticas reais de **Data Analytics**.
+
+---
+
+## 9. Autor
+* **Carlos Vinícius**
+* **LinkedIn:** [https://www.linkedin.com/in/carlos-vinicius-nascimento-de-jesus/]
+* **GitHub:** [https://github.com/Carllux/] 
